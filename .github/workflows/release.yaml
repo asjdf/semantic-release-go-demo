@@ -1,3 +1,4 @@
+# From: https://github.com/asjdf/semantic-release-go-demo
 name: Release
 on:
   push:

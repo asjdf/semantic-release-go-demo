@@ -1,3 +1,4 @@
+// From: https://github.com/asjdf/semantic-release-go-demo
 module.exports = {
     branches: ["main", {name: 'alpha', prerelease: true}, {name: 'beta', prerelease: true}],
     plugins: [
